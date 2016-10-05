@@ -111,7 +111,7 @@ lunchList =  ['County Line'] * 1 +\
              ['Racetrack Casino'] * 1 +\
              ['Sandia Casino'] * 0 +\
              ['Whataburger'] +\
-             ['Weinerschnitzel'] +\
+             ['Weinerschnitzel'] * 3 +\
              ['Jack in the Box'] * 1 +\
              ['East Mountain Grill'] * 0 +\
              ['Mannie\'s'] +\
